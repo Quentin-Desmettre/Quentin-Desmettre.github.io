@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7612f620.css",
+    "main.js": "./static/js/main.ecbb3aad.js",
+    "static/media/cv.pdf": "./static/media/cv.39723a5fd539c5851c0a.pdf",
+    "static/media/bike.png": "./static/media/bike.ae8fab7f2bdf8e3f0e88.png",
+    "static/media/my_face.png": "./static/media/my_face.692b37bd89fbdb5bbe1d.png",
+    "static/media/informatique.png": "./static/media/informatique.4526e032c484fcc0c94f.png",
+    "static/media/chess.png": "./static/media/chess.96ed756e27dc6485b980.png",
+    "static/media/en.png": "./static/media/en.789ff1da7dc0b7ff0220.png",
+    "static/media/exp_branch.svg": "./static/media/exp_branch.067eddfd687ab6f2e4397f59062ce2b2.svg",
+    "static/media/stat_branch.svg": "./static/media/stat_branch.3df69de5cfb9a6bc12364eca53ce358d.svg",
+    "index.html": "./index.html",
+    "static/media/repository.svg": "./static/media/repository.be6dd4e7083d78da81a2.svg",
+    "static/media/tick.svg": "./static/media/tick.946ec8ba46dbe2e85e594edd0cacdcd9.svg",
+    "static/media/loading.svg": "./static/media/loading.94ef4e5f769ff386d7e4016ee26ed3fe.svg",
+    "static/media/partCircle.svg": "./static/media/partCircle.d0e87472b190e0c7857d.svg",
+    "main.7612f620.css.map": "./static/css/main.7612f620.css.map",
+    "main.ecbb3aad.js.map": "./static/js/main.ecbb3aad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7612f620.css",
+    "static/js/main.ecbb3aad.js"
+  ]
+}
